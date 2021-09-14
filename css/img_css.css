@@ -1,0 +1,77 @@
+*{
+    box-sizing: border-box;
+    /* margin: 0; */
+}
+h3{
+    margin: 0;
+}
+.Horizontal_items{
+    display: flex;
+    flex-direction: row;
+    
+}
+.w-1440{
+    width: 1440px;
+}
+.w-750{
+    width: 750px;
+}
+.w-100{
+    width: 750px;
+}
+.w-120px{
+    width: 120px;
+}
+.w-240px{
+    width: 240px;
+}
+.img_body li{
+    list-style-type: none;
+}
+
+.img_pr li{
+    padding-right: 3px;
+}
+.text_Rotation{
+    transform: rotate(-180deg);
+    color: #fff;
+    font-size: 20px;
+    justify-content: flex-start;
+    /* text-align:center; */
+    /* height: 120px; */
+    top: 100px;
+    right: 0px;
+    margin: 0;
+    white-space:nowrap; 
+    writing-mode: vertical-lr;
+    text-orientation: sideways;
+    /* text-transform: uppercase;  */
+    /* text-transform: uppercase; 強制所有字符被轉換為小寫 */
+    
+}
+.position_r{
+    position: relative;
+}
+.position_ab{
+    position: absolute;
+}
+.pt_16{
+    padding-left: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
